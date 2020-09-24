@@ -1,4 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<dependencies>
+	<dependency>
+	     <groupId>com.google.guava</groupId>
+	     <artifactId>guava</artifactId>
+	     <version>18.0</version>
+	</dependency>
+</dependencies>
   <modelVersion>4.0.0</modelVersion>
   <groupId>nz.ac.massey.cs.251</groupId>
   <artifactId>Maven_Tutorial</artifactId>
